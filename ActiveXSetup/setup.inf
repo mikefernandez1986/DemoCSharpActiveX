@@ -1,0 +1,19 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Sat Sep 07 20:52:26 2019           **
+;**                                                                **
+;** MakeCAB Version: 6.1.7600.16385                                 **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,DemoCSharpActiveX.cab
+[file list]
+1,1,ActiveXSetup.msi,541184
+1,1,DemoCSharpActiveX.inf,171
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Sat Sep 07 20:52:26 2019           **
+;**                                                                **
+;*** END ************************************************************
